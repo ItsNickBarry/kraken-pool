@@ -1,0 +1,27 @@
+{
+  "name": "kraken-pool",
+  "version": "1.0.0",
+  "description": "A wrapper for kraken-api which enables simultaneous requests to the kraken.com API via multiple API keypairs.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itsnickbarry/kraken-pool.git"
+  },
+  "keywords": [
+    "kraken",
+    "api",
+    "wow"
+  ],
+  "author": "Nick Barry",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/itsnickbarry/kraken-pool/issues"
+  },
+  "homepage": "https://github.com/itsnickbarry/kraken-pool#readme",
+  "dependencies": {
+    "kraken-api": "^1.0.0"
+  }
+}
