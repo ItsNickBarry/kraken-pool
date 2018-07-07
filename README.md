@@ -1,5 +1,5 @@
 # Kraken Pool
-A wrapper for [kraken-api][kraken-api] which enables simultaneous requests to the kraken.com API via multiple API keypairs. Simultaneous requests using a single keypar can result in "Invalid nonce" errors.
+A wrapper for [kraken-api][kraken-api] which enables simultaneous requests to the kraken.com API via multiple API keypairs. Simultaneous requests using a single keypair can result in "Invalid nonce" errors.
 
 ## Installation
 
